@@ -1,10 +1,5 @@
-# Buy Tickets Design
+# Flutter animation challenge 3 - buy tickets design
 
-The UI Challenge written in flutter
-
-Described in following post:
-* [Parallax effect in PageView](https://marcinszalek.pl/flutter/tickets-challenge-parallax/)
-* [Bottom sheet transition](https://marcinszalek.pl/flutter/tickets-advanced-transitions/)
 
 ## The design:
 ![Design](https://user-images.githubusercontent.com/16286046/56876328-e2647480-6a46-11e9-919e-460ca638d3b4.gif)
